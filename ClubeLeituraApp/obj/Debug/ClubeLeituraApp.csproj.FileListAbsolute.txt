@@ -1,0 +1,7 @@
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\ClubeLeitura\ClubeLeituraApp\bin\Debug\ClubeLeituraApp.exe.config
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\ClubeLeitura\ClubeLeituraApp\bin\Debug\ClubeLeituraApp.exe
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\ClubeLeitura\ClubeLeituraApp\bin\Debug\ClubeLeituraApp.pdb
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\ClubeLeitura\ClubeLeituraApp\obj\Debug\ClubeLeituraApp.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\ClubeLeitura\ClubeLeituraApp\obj\Debug\ClubeLeituraApp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\ClubeLeitura\ClubeLeituraApp\obj\Debug\ClubeLeituraApp.exe
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\ClubeLeitura\ClubeLeituraApp\obj\Debug\ClubeLeituraApp.pdb
